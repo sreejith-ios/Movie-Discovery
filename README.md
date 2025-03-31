@@ -242,16 +242,6 @@ class MovieListViewModelTests: XCTestCase {
 }
 ```
 
-## Future Improvements
-
-- Implement more robust offline mode with CoreData
-- Add pagination for the movie list
-- Add filtering options (by genre, release year, etc.)
-- Implement movie trailers using AVKit
-- Add more unit and UI tests
-- Support for dark mode
-- Localization
-
 ## Requirements
 
 - iOS 15.0+
